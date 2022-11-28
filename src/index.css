@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App{
+  margin-top: 30px;
+  background: #3ee33e;
+  width: 300px;
+  margin-left: 500px;
+  border-radius: 1em;
+  border-color: aqua;
+}
+input{
+  float: right;
+  clear: both;
+}
+.lists{
+  margin-top: 30px;
+}
+.submit{
+  float: right;
+  align-items: center;
+}
+li{
+  display: block ;
+  align-items: left;
+  list-style-type: none;
+  padding-bottom: 2px;
+  margin-top: 3px;
+  background: rgb(219, 208, 192);
+  border-radius: 2em;
+  color: red;
+}
+.but{
+  background: #6bbeda;
+  margin-left: auto; 
+  margin-right: 0;
+  float: right;
+
+}
